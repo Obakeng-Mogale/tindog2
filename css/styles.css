@@ -110,6 +110,9 @@ h3 {
         text-align: center;
 
     }
+    .big-heading{
+        font-size:2rem;
+    }
 
     .h1 {
         font-size: 1rem;
